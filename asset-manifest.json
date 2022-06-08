@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-api-react/static/css/main.9f635dee.css",
+    "main.js": "/breaking-bad-api-react/static/js/main.ae918c03.js",
+    "index.html": "/breaking-bad-api-react/index.html",
+    "main.9f635dee.css.map": "/breaking-bad-api-react/static/css/main.9f635dee.css.map",
+    "main.ae918c03.js.map": "/breaking-bad-api-react/static/js/main.ae918c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f635dee.css",
+    "static/js/main.ae918c03.js"
+  ]
+}
